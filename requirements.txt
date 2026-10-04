@@ -1,0 +1,13 @@
+# The OCR stack the PP-OCRv6 Medium server imports when a tool is called.
+#
+# Install it into the interpreter the DSH plugin should use, then point the
+# plugin's `python` option at that interpreter:
+#
+#     pip install -r requirements.txt
+#
+# The detection and recognition models (~170 MB) download into
+# ~/.paddlex/official_models/ on the first tool call.
+paddlepaddle==3.0.0
+paddleocr==3.7.0
+onnxruntime
+Pillow

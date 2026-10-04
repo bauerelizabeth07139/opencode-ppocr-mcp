@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "PP-OCR (local)",
+    "description": "Local OCR for DeepSeek Harness: mounts the PP-OCRv6 Medium stdio MCP server (PaddleOCR/PaddleX on ONNX Runtime, CPU) so images and multi-page PDFs can be read as mcp__ppocr__ocr_image and mcp__ppocr__ocr_pdf, with nothing sent to a cloud."
+  }
+}

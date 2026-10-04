@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "PP-OCR 本地文字识别",
+    "description": "本地 OCR:挂载 PP-OCRv6 Medium stdio MCP 服务器(PaddleOCR/PaddleX + ONNX Runtime,CPU 推理),用 mcp__ppocr__ocr_image 与 mcp__ppocr__ocr_pdf 识别图片和多页 PDF,不把文件发到云端。"
+  }
+}
