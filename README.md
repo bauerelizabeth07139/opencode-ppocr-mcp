@@ -1,5 +1,7 @@
 # opencode-ppocr-mcp
 
+[![dsh.so risk](https://www.dsh.so/badge/opencode-ppocr-mcp.svg)](https://www.dsh.so/artifact/opencode-ppocr-mcp/)
+
 **Local OCR, no cloud.** PP-OCRv6 Medium detection + recognition on ONNX
 Runtime (CPU), for images and multi-page PDFs.
 
